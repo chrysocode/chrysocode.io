@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Chrysocode",
-    "currentPage": "conseil.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/3d-balls-rendering-lines-favicon-128x128.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120541603-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120541603-3');\r\n</script>\r\n",
     "uniqCompNum": 62,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
