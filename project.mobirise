@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Chrysocode",
-    "currentPage": "automatisation-des-tests-frameworks-bonnes-pratiques.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,7 +52,7 @@
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "mbrsiteDomain": "05ug0ydwnl",
+    "mbrsiteDomain": "sl4zcmvz0a",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -851,7 +851,8 @@
                 "contentAlign": "center",
                 "text": "Le changement n'est pas un état, mais une dynamique. Libérez les potentiels humains et les savoir-faire pour laisser place à l'innovation. Adoptez l'état d'esprit et la culture qui s'accordent avec vos objectifs. Incarnez et soyez le changement que vous souhaitez voir naître. Recherchez l'excellence ingénierique pour soutenir le changement et bâtir du concret et sur la durée.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"http://agilemanifesto.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Manifeste</a> ",
-                "overlayColor": "#073b4c"
+                "overlayColor": "#073b4c",
+                "textTitle": "Développements Agiles"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x828.jpg",
@@ -869,7 +870,8 @@
                 "contentAlign": "left",
                 "text": "On oublie parfois qu'on livre comme on produit, et pas seulement ce qu'on produit. Tirez profit des outils en faisant émerger collectivement des méthodes de travail simples et efficaces, proportionnées à l'objectif visé. Structurez vos processus en fonction de vos méthodes, et non de vos outils qui doivent demeurer un moyen, une commodité. Toute livraison devrait être un acte anecdotique, un non-événement, dénué de toute charge émotionnelle.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
-                "overlayColor": "#073b4c"
+                "overlayColor": "#073b4c",
+                "textTitle": "Versionnage &amp; Livraison"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/background2.jpg",
@@ -887,7 +889,8 @@
                 "contentAlign": "right",
                 "text": "Chaque candidature est une rencontre. Offrez la meilleure expérience à vos candidats, comme à vos recrues. Recrutez pour apprendre et muter, et non pour répéter et reproduire. Appliquez l'amélioration continue à votre démarche de recrutement de bout en bout. Et tendez à faire de tout un chacun un ambassadeur de votre organisation.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
-                "overlayColor": "#073b4c"
+                "overlayColor": "#073b4c",
+                "textTitle": "Recrutement Continu"
               }
             ]
           }
@@ -1161,7 +1164,8 @@
                 "contentAlign": "center",
                 "text": "La variété des formes de test constitue un vaste arsenal, à la fois puissant et complexe à manipuler. Apprenez à le rationnaliser afin d'acquérir de nouvelles capacités : livrer sans surcoût, livrer n'importe quand, livrer en toute confiance. Mettez les tests à votre service plutôt que d'être au leur.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
-                "overlayColor": "#073b4c"
+                "overlayColor": "#073b4c",
+                "textTitle": "Automatisation des tests"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
@@ -1179,7 +1183,8 @@
                 "contentAlign": "left",
                 "text": "Étendez le terrain de jeu de vos tests de manière à engendrer une organisation apprenante et des processus générateurs de valeur. Optez pour des tests utiles et intelligemment organisés, entre machine et humain, en adéquation avec leurs forces respectives. Optimisez l'effort consenti à l'automatisation des tests pour en tirer le meilleur retour sur investissement dans votre contexte.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
-                "overlayColor": "#073b4c"
+                "overlayColor": "#073b4c",
+                "textTitle": "Stratégies de test"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
@@ -1197,7 +1202,8 @@
                 "contentAlign": "right",
                 "text": "Accordez le même soin à votre code de test qu'à votre code de production, et traitez vos &nbsp;tests comme des composants de première classe. Les tests ont la faculté de documenter aussi bien le comportement d'un logiciel que sa dette, de quelque nature qu'elle soit. Structurez, scénarisez, spécifiez ou improvisez. Si le code ne ment pas, les tests disent la vérité - même leur absence.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
-                "overlayColor": "#073b4c"
+                "overlayColor": "#073b4c",
+                "textTitle": "Pratiques de test"
               }
             ]
           }
@@ -1471,7 +1477,8 @@
                 "contentAlign": "center",
                 "text": "Alignez vos méthodes d'ingénierie logicielle et votre gouvernance, en adoptant de concert découvertes et apprentissages rapides avec Test-Driven Development (TDD) et Behavior-Driven Development (BDD).",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
-                "overlayColor": "#073b4c"
+                "overlayColor": "#073b4c",
+                "textTitle": "Design-Driven Development"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
@@ -1489,7 +1496,8 @@
                 "contentAlign": "left",
                 "text": "Soyez fiers de vos accomplissements, en créant des conceptions qui reflètent vos talents. Pensez la qualité comme intrinsèque à vos produits, et construisez-la au quotidien dans le code pour qu'il porte l'identité et les valeurs de votre organisation. Faîtes de votre code source un élément à part entière de votre culture portée par des actes.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
-                "overlayColor": "#073b4c"
+                "overlayColor": "#073b4c",
+                "textTitle": "Conception Logicielle &amp; Remaniement"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
@@ -1506,7 +1514,8 @@
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Faîtes l'économie de l'inutile et réduisez vos logiciels à l'essentiel, à la valeur que vous en attendez. Trouvez les armes pour vous préserver du chaos logiciel et usez-en à bon escient pour dompter l'entropie logicielle.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
+                "textTitle": "Dette Logicielle &amp; Code Hérité"
               }
             ]
           }
