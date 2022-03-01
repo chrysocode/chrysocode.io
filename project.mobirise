@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Chrysocode",
-    "currentPage": "formation.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -534,7 +534,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#45717f\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Pourquoi faire appel à nous ?</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><b>Chrysocode</b> a pour mission de changer et d'améliorer...<br>- la flexibilité de vos organisations et logiciels,<br>- les délais de mise sur le marché de vos produits,<br>- la qualité perçue par vos utilisateurs.<br>Chrysocode est un cabinet de conseil spécialisé en stratégie IT et dans la conduite du changement en ingénierie logicielle.\n<div>Son ambition est de rendre à l'Ingénierie du Code ses lettres de noblesse, en libérant les potentiels humains et les savoir-faire.</div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-secondary\" href=\"conseil.html\" data-app-placeholder=\"Type Text\">Offre de Conseil</a>\n                    <a class=\"btn btn-secondary\" href=\"formation.html\" data-app-placeholder=\"Type Text\">Offre de Formation</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#304c55\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Pourquoi faire appel à nous ?</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><b>Chrysocode</b> a pour mission de changer et d'améliorer...<br>- la flexibilité de vos organisations et logiciels,<br>- les délais de mise sur le marché de vos produits,<br>- la qualité perçue par vos utilisateurs.<br><br><b>Chrysocode</b> est un cabinet de conseil spécialisé en stratégie IT et dans la conduite du changement en ingénierie logicielle.\n<div>Son ambition est de rendre à l'Ingénierie du Code ses lettres de noblesse, en libérant les potentiels humains et les savoir-faire. Entre <i>Software Craftsmanship</i>, <a href=\"https://gearsoftesting.org/\" class=\"text-primary\" target=\"_blank\">Gears Of Software Testing</a> (GOST™) et <a href=\"https://cleantest.chrysocode.io/\" class=\"text-primary\" target=\"_blank\">Clean Test</a>®, découvrez notre offre.</div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-secondary\" href=\"conseil.html\" data-app-placeholder=\"Type Text\">Offre de Conseil</a>\n                    <a class=\"btn btn-secondary\" href=\"formation.html\" data-app-placeholder=\"Type Text\">Offre de Formation</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rl5gMgi9xM",
           "_anchor": "content4-e",
           "_protectedParams": [],
@@ -1151,7 +1151,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1200.jpg",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1162,15 +1162,15 @@
                 "title": "Automatisation des tests",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "La variété des formes de test constitue un vaste arsenal, à la fois puissant et complexe à manipuler. Apprenez à le rationnaliser afin d'acquérir de nouvelles capacités : livrer sans surcoût, livrer n'importe quand, livrer en toute confiance. Mettez les tests à votre service plutôt que d'être au leur.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
+                "text": "La variété des formes de test constitue un vaste arsenal, à la fois puissant et complexe à manipuler. Apprenez à le rationnaliser afin d'acquérir de nouvelles capacités : livrez sans surcoût, livrez n'importe quand, livrez en toute confiance. Mettez les tests à votre service plutôt que d'être au leur.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://gearsoftesting.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GOST™</a>",
                 "overlayColor": "#073b4c",
                 "textTitle": "Automatisation des tests"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1182,14 +1182,14 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Étendez le terrain de jeu de vos tests de manière à engendrer une organisation apprenante et des processus générateurs de valeur. Optez pour des tests utiles et intelligemment organisés, entre machine et humain, en adéquation avec leurs forces respectives. Optimisez l'effort consenti à l'automatisation des tests pour en tirer le meilleur retour sur investissement dans votre contexte.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://gearsoftesting.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GOST™</a>",
                 "overlayColor": "#073b4c",
                 "textTitle": "Stratégies de test"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1200,8 +1200,8 @@
                 "title": "Pratiques de test",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Accordez le même soin à votre code de test qu'à votre code de production, et traitez vos &nbsp;tests comme des composants de première classe. Les tests ont la faculté de documenter aussi bien le comportement d'un logiciel que sa dette, de quelque nature qu'elle soit. Structurez, scénarisez, spécifiez ou improvisez. Si le code ne ment pas, les tests disent la vérité - même leur absence.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
+                "text": "Accordez le même soin à votre code de test qu'à votre code de production, et traitez vos &nbsp;tests comme des composants de première classe. Les tests ont la faculté de documenter aussi bien le comportement d'un logiciel que sa dette, de quelque nature qu'elle soit. Structurez, scénarisez, spécifiez ou improvisez. Si le code ne ment pas, les tests disent la vérité - même leur absence. En prenant soin de vos tests, vous prenez soin de vos utilisateurs et clients : faites de vos tests des VIP et rejoignez le mouvement <i>Clean Test</i>®.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://cleantest.chrysocode.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Clean Test®</a> ",
                 "overlayColor": "#073b4c",
                 "textTitle": "Pratiques de test"
               }
